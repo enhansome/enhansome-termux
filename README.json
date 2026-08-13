@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Termux Float",
+          "description": "Termux Float - Github A Termux add-on app to show the terminal in a floating terminal window.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-12T22:04:37Z",
+            "owner": "termux",
+            "repo": "termux-float",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/moverest/termux-smses",
+          "description": "A simple fish script to send sms interactively with termux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-08-15T20:33:10Z",
+            "owner": "moverest",
+            "repo": "termux-smses",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Termux Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Hax4us/Tmux-Bunch",
+          "description": "Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-04-17T09:43:00Z",
+            "owner": "Hax4us",
+            "repo": "Tmux-Bunch",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apktool",
+          "description": "This apktool is specially compiled for termux..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2017-11-03T17:15:45Z",
+            "owner": "Hax4us",
+            "repo": "apktool",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Harshiv-Patel/termux-jdkTools",
+          "description": "A bunch of jdk tools to use with Termux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-05-25T01:50:26Z",
+            "owner": "Harshiv-Patel",
+            "repo": "termux-jdkTools",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/4544fa8d/AndroTermux",
+          "description": "Simple way to build Android apps in Termux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2016-10-09T15:28:29Z",
+            "owner": "jaroslaw-janikowski",
+            "repo": "AndroTermux",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/TheDiamondYT1/termux-buildapk",
+          "description": "A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-11-09T19:44:17Z",
+            "owner": "TheDiamondYT1",
+            "repo": "termux-buildapk",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/michalbednarski/TermuxAm",
+          "description": "Android Oreo-compatible am command reimplementation (am (Activity Manager) command in Android can be used to start Activity or send Broadcast from shell, however since Android Oreo that command only works from adb shell, not from apps. This is modified version of that command that is usable from app.)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-08-07T17:27:59Z",
+            "owner": "michalbednarski",
+            "repo": "TermuxAm",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/wisehackermonkey/termux",
+          "description": "Termux server for battery monitor on andriod",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-12-27T17:38:04Z",
+            "owner": "wisehackermonkey",
+            "repo": "termux",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Android Hacking"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Programming"
+    },
+    {
+      "description": "How to check if a script is running inside Termux",
+      "items": [],
+      "title": "Bash Tips"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-list about Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-02T22:40:13Z",
+            "owner": "carpedm20",
+            "repo": "awesome-hacking",
+            "stars": 16853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-list about Hacking using Termux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-12-14T06:23:37Z",
+            "owner": "may215",
+            "repo": "awesome-termux-hacking",
+            "stars": 4743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Another list of Termux resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-17T13:40:21Z",
+            "owner": "T4P4N",
+            "repo": "Awesome-Termux",
+            "stars": 616
+          }
+        }
+      ],
+      "title": "Related lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:47.976Z",
+    "original_repository": "adrianogil/awesome-termux",
+    "original_repository_sha": "96344ca434157dc7822f22e17188927b96173819",
+    "enhanced_repository": "enhansome/enhansome-termux",
+    "enhanced_repository_description": null,
+    "title": "Awesome Termux with stars"
+  }
+}
