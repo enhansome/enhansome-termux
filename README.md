@@ -4,7 +4,7 @@ A list of awesome things related to Termux
 
 ## Termux Apps
 
-* [Termux Float](https://play.google.com/store/apps/details?id=com.termux.window) [Termux Float - Github](https://github.com/termux/termux-float) ⭐ 843 | 🐛 23 | 🌐 Java | 📅 2025-12-12 A Termux add-on app to show the terminal in a floating terminal window.
+* [Termux Float](https://play.google.com/store/apps/details?id=com.termux.window) [Termux Float - Github](https://github.com/termux/termux-float) ⭐ 843 | 🐛 24 | 🌐 Java | 📅 2025-12-12 A Termux add-on app to show the terminal in a floating terminal window.
 * <https://github.com/moverest/termux-smses> ⭐ 31 | 🐛 1 | 🌐 Shell | 📅 2018-08-15 A simple fish script to send sms interactively with termux.
 * [Termux Widget](https://play.google.com/store/apps/details?id=com.termux.widget) The Termux:Widget add-on provides a widget with shortcuts to run scripts placed in the $HOME/.shortcuts/ folder, allowing quick access to frequently used commands without typing
 * [Termux Tasker](https://play.google.com/store/apps/details?id=com.termux.tasker) A Termux add-on app allowing Termux programs to be executed from Tasker.
@@ -18,7 +18,7 @@ A list of awesome things related to Termux
 
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 16,797 | 🐛 1,118 | 🌐 Shell | 📅 2026-08-16
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 16,805 | 🐛 1,121 | 🌐 Shell | 📅 2026-08-17
 
 ## Android Hacking
 
@@ -61,10 +61,10 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,879 | 🐛 68 | 📅 2024-06-02
-* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,751 | 🐛 67 | 📅 2023-12-14
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,886 | 🐛 68 | 📅 2024-06-02
+* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,752 | 🐛 67 | 📅 2023-12-14
 * [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 617 | 🐛 0 | 📅 2023-09-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
