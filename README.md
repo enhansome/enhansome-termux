@@ -18,7 +18,7 @@ A list of awesome things related to Termux
 
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 16,811 | 🐛 1,118 | 🌐 Shell | 📅 2026-08-19
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 16,816 | 🐛 1,121 | 🌐 Shell | 📅 2026-08-19
 
 ## Android Hacking
 
@@ -61,7 +61,7 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,898 | 🐛 68 | 📅 2024-06-02
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,899 | 🐛 68 | 📅 2024-06-02
 * [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,755 | 🐛 67 | 📅 2023-12-14
 * [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 618 | 🐛 0 | 📅 2023-09-17
 
