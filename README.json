@@ -15,7 +15,7 @@
             "last_commit": "2025-12-12T22:04:37Z",
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 843
+            "stars": 845
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2020-04-17T09:43:00Z",
             "owner": "Hax4us",
             "repo": "Tmux-Bunch",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16903
+            "stars": 16913
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2023-09-17T13:40:21Z",
             "owner": "T4P4N",
             "repo": "Awesome-Termux",
-            "stars": 618
+            "stars": 619
           }
         }
       ],
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:26:05.398Z",
+    "last_updated": "2026-08-21T03:31:07.836Z",
     "original_repository": "adrianogil/awesome-termux",
     "original_repository_id": 154245581,
     "original_repository_sha": "96344ca434157dc7822f22e17188927b96173819",
