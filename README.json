@@ -162,7 +162,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16913
+            "stars": 16917
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2023-12-14T06:23:37Z",
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4757
+            "stars": 4760
           }
         },
         {
@@ -200,7 +200,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:31:07.836Z",
+    "last_updated": "2026-08-22T03:22:38.836Z",
     "original_repository": "adrianogil/awesome-termux",
     "original_repository_id": 154245581,
     "original_repository_sha": "96344ca434157dc7822f22e17188927b96173819",
