@@ -15,7 +15,7 @@
             "last_commit": "2025-12-12T22:04:37Z",
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 846
+            "stars": 847
           }
         },
         {
@@ -35,6 +35,27 @@
         }
       ],
       "title": "Termux Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open URL from Termux - https://github.com/termux/termux-packages/issues/166",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37346186,
+            "language": "Shell",
+            "last_commit": "2026-08-24T13:44:59Z",
+            "owner": "termux",
+            "repo": "termux-packages",
+            "stars": 16845
+          }
+        }
+      ],
+      "title": "Utils"
     },
     {
       "description": null,
@@ -162,7 +183,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16928
+            "stars": 16929
           }
         },
         {
@@ -200,7 +221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:32:37.278Z",
+    "last_updated": "2026-08-24T14:33:07.574Z",
     "original_repository": "adrianogil/awesome-termux",
     "original_repository_id": 154245581,
     "original_repository_sha": "96344ca434157dc7822f22e17188927b96173819",
