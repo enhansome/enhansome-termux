@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/moverest/termux-smses",
+          "title": "moverest/termux-smses",
           "description": "A simple fish script to send sms interactively with termux.",
           "children": [],
           "repo_info": {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 37346186,
             "language": "Shell",
-            "last_commit": "2026-08-25T02:25:00Z",
+            "last_commit": "2026-08-25T06:25:42Z",
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 16848
+            "stars": 16852
           }
         }
       ],
@@ -62,7 +62,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/Hax4us/Tmux-Bunch",
+          "title": "Hax4us/Tmux-Bunch",
           "description": "Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)",
           "children": [],
           "repo_info": {
@@ -92,7 +92,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Harshiv-Patel/termux-jdkTools",
+          "title": "Harshiv-Patel/termux-jdkTools",
           "description": "A bunch of jdk tools to use with Termux.",
           "children": [],
           "repo_info": {
@@ -107,7 +107,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/4544fa8d/AndroTermux",
+          "title": "jaroslaw-janikowski/AndroTermux",
           "description": "Simple way to build Android apps in Termux.",
           "children": [],
           "repo_info": {
@@ -122,7 +122,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/TheDiamondYT1/termux-buildapk",
+          "title": "TheDiamondYT1/termux-buildapk",
           "description": "A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.",
           "children": [],
           "repo_info": {
@@ -137,7 +137,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/michalbednarski/TermuxAm",
+          "title": "michalbednarski/TermuxAm",
           "description": "Android Oreo-compatible am command reimplementation (am (Activity Manager) command in Android can be used to start Activity or send Broadcast from shell, however since Android Oreo that command only works from adb shell, not from apps. This is modified version of that command that is usable from app.)",
           "children": [],
           "repo_info": {
@@ -152,7 +152,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/wisehackermonkey/termux",
+          "title": "wisehackermonkey/termux",
           "description": "Termux server for battery monitor on andriod",
           "children": [],
           "repo_info": {
@@ -183,7 +183,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16932
+            "stars": 16934
           }
         },
         {
@@ -221,7 +221,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:27:34.297Z",
+    "last_updated": "2026-08-25T06:27:51.591Z",
     "original_repository": "adrianogil/awesome-termux",
     "original_repository_id": 154245581,
     "original_repository_sha": "96344ca434157dc7822f22e17188927b96173819",
