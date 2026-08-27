@@ -16,7 +16,7 @@ A list of awesome things related to Termux
 
 ## Utils
 
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 16,861 | 🐛 1,130 | 🌐 Shell | 📅 2026-08-27
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 16,861 | 🐛 1,132 | 🌐 Shell | 📅 2026-08-27
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
 
