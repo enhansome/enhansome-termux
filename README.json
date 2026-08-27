@@ -48,10 +48,10 @@
             "archived": false,
             "id": 37346186,
             "language": "Shell",
-            "last_commit": "2026-08-26T03:19:17Z",
+            "last_commit": "2026-08-27T09:46:19Z",
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 16856
+            "stars": 16861
           }
         }
       ],
@@ -183,7 +183,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16940
+            "stars": 16948
           }
         },
         {
@@ -198,7 +198,7 @@
             "last_commit": "2023-12-14T06:23:37Z",
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4766
+            "stars": 4767
           }
         },
         {
@@ -213,7 +213,7 @@
             "last_commit": "2023-09-17T13:40:21Z",
             "owner": "T4P4N",
             "repo": "Awesome-Termux",
-            "stars": 621
+            "stars": 622
           }
         }
       ],
@@ -221,9 +221,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:34:13.352Z",
-    "original_repository": "adrianogil/awesome-termux",
-    "original_repository_id": 154245581,
+    "last_updated": "2026-08-27T12:08:16.987Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 154245581,
+      "language": null,
+      "last_commit": "2024-08-04T04:07:18Z",
+      "owner": "adrianogil",
+      "repo": "awesome-termux",
+      "stars": 241
+    },
     "original_repository_sha": "96344ca434157dc7822f22e17188927b96173819",
     "enhanced_repository": "enhansome/enhansome-termux",
     "enhanced_repository_description": null,
