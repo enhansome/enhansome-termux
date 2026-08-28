@@ -15,8 +15,9 @@
             "last_commit": "2025-12-12T22:04:37Z",
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 848
-          }
+            "stars": 847
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2018-08-15T20:33:10Z",
             "owner": "moverest",
             "repo": "termux-smses",
-            "stars": 31
-          }
+            "stars": 32
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         }
       ],
       "title": "Termux Apps"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 37346186,
             "language": "Shell",
-            "last_commit": "2026-08-27T09:46:19Z",
+            "last_commit": "2026-08-28T14:18:35Z",
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 16861
-          }
+            "stars": 16865
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         }
       ],
       "title": "Utils"
@@ -73,7 +76,8 @@
             "owner": "Hax4us",
             "repo": "Tmux-Bunch",
             "stars": 220
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "Hax4us",
             "repo": "apktool",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "Harshiv-Patel",
             "repo": "termux-jdkTools",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "jaroslaw-janikowski",
             "repo": "AndroTermux",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "TheDiamondYT1",
             "repo": "termux-buildapk",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "michalbednarski",
             "repo": "TermuxAm",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "wisehackermonkey",
             "repo": "termux",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         }
       ],
       "title": "Android Hacking"
@@ -183,8 +193,9 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16948
-          }
+            "stars": 16959
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -198,8 +209,9 @@
             "last_commit": "2023-12-14T06:23:37Z",
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4767
-          }
+            "stars": 4770
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         },
         {
           "node_type": "item",
@@ -213,15 +225,16 @@
             "last_commit": "2023-09-17T13:40:21Z",
             "owner": "T4P4N",
             "repo": "Awesome-Termux",
-            "stars": 622
-          }
+            "stars": 623
+          },
+          "first_seen": "2026-08-28T14:33:22.755Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:02:46.731Z",
+    "last_updated": "2026-08-28T14:33:22.755Z",
     "original_repository_info": {
       "archived": false,
       "id": 154245581,
