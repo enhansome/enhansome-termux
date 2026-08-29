@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Termux add-on app to show the terminal in a floating terminal window.",
+            "homepage": "https://f-droid.org/en/packages/com.termux.window",
             "id": 87237056,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-12T22:04:37Z",
+            "open_issues": 24,
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "android",
+              "termux"
+            ]
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -26,12 +34,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple fish script to send text messages interactively with Termux on a Android phone.",
+            "homepage": null,
             "id": 80664865,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2018-08-15T20:33:10Z",
+            "open_issues": 1,
             "owner": "moverest",
             "repo": "termux-smses",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "android",
+              "fish-scripts",
+              "ssh",
+              "termux"
+            ]
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         }
@@ -48,12 +66,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package build system for Termux.",
+            "homepage": "https://termux.dev",
             "id": 37346186,
             "language": "Shell",
-            "last_commit": "2026-08-28T14:18:35Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:25:38Z",
+            "open_issues": 1123,
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 16865
+            "stars": 16865,
+            "topics": [
+              "android",
+              "hacktoberfest",
+              "linux",
+              "linux-distribution",
+              "packages",
+              "termux"
+            ]
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         }
@@ -70,12 +100,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Deprecated Use Apkmod instead)Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign) ",
+            "homepage": null,
             "id": 101079594,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2020-04-17T09:43:00Z",
+            "open_issues": 27,
             "owner": "Hax4us",
             "repo": "Tmux-Bunch",
-            "stars": 220
+            "stars": 220,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -86,12 +121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This apktool is specially compiled for termux..",
+            "homepage": null,
             "id": 109097140,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2017-11-03T17:15:45Z",
+            "open_issues": 1,
             "owner": "Hax4us",
             "repo": "apktool",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -102,12 +142,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bunch of jdk tools to use with Termux.",
+            "homepage": null,
             "id": 83824777,
             "language": "Shell",
+            "license": null,
             "last_commit": "2018-05-25T01:50:26Z",
+            "open_issues": 1,
             "owner": "Harshiv-Patel",
             "repo": "termux-jdkTools",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "android",
+              "jdk",
+              "termux",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -118,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple way to build Android apps in Termux.",
+            "homepage": null,
             "id": 64426379,
             "language": "Makefile",
+            "license": null,
             "last_commit": "2016-10-09T15:28:29Z",
+            "open_issues": 1,
             "owner": "jaroslaw-janikowski",
             "repo": "AndroTermux",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -134,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.",
+            "homepage": null,
             "id": 82920225,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-09T19:44:17Z",
+            "open_issues": 3,
             "owner": "TheDiamondYT1",
             "repo": "termux-buildapk",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -150,12 +210,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[MOVED] Android Oreo-compatible am command reimplementation",
+            "homepage": "https://github.com/termux/TermuxAm",
             "id": 120106031,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-08-07T17:27:59Z",
+            "open_issues": 0,
             "owner": "michalbednarski",
             "repo": "TermuxAm",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -166,12 +231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Termux server for battery monitor on  andriod",
+            "homepage": null,
             "id": 96944256,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-12-27T17:38:04Z",
+            "open_issues": 1,
             "owner": "wisehackermonkey",
             "repo": "termux",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         }
@@ -188,12 +258,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Hacking tutorials, tools and resources",
+            "homepage": null,
             "id": 28084589,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-06-02T22:40:13Z",
+            "open_issues": 69,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16959
+            "stars": 16964,
+            "topics": [
+              "awesome",
+              "hacking"
+            ]
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -204,12 +282,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡️An awesome list of the best Termux hacking tools ",
+            "homepage": null,
             "id": 226867094,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-14T06:23:37Z",
+            "open_issues": 67,
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4770
+            "stars": 4771,
+            "topics": [
+              "android",
+              "awesome-list",
+              "hacking-tools",
+              "osint",
+              "penetration-testing",
+              "termux-hacking",
+              "wifi-security"
+            ]
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         },
@@ -220,12 +311,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More...",
+            "homepage": "https://wiki.termux.com/wiki/Main_Page",
             "id": 128361264,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2023-09-17T13:40:21Z",
+            "open_issues": 0,
             "owner": "T4P4N",
             "repo": "Awesome-Termux",
-            "stars": 623
+            "stars": 624,
+            "topics": [
+              "awesome-list",
+              "awesome-termux",
+              "termux",
+              "termux-awesome-list",
+              "termux-recommended-for-android"
+            ]
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
         }
@@ -234,15 +336,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:33:22.755Z",
+    "last_updated": "2026-08-29T04:52:23.465Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of awesome things related to Termux",
+      "homepage": null,
       "id": 154245581,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-08-04T04:07:18Z",
+      "open_issues": 2,
       "owner": "adrianogil",
       "repo": "awesome-termux",
-      "stars": 241
+      "stars": 241,
+      "topics": [
+        "android",
+        "awesome-list",
+        "command-line",
+        "termux",
+        "termux-awesome-list"
+      ]
     },
     "original_repository_sha": "96344ca434157dc7822f22e17188927b96173819",
     "enhanced_repository": "enhansome/enhansome-termux",
