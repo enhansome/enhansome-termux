@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 847,
+            "stars": 848,
             "topics": [
               "android",
               "termux"
@@ -71,8 +71,8 @@
             "id": 37346186,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T04:25:38Z",
-            "open_issues": 1123,
+            "last_commit": "2026-08-29T06:54:26Z",
+            "open_issues": 1125,
             "owner": "termux",
             "repo": "termux-packages",
             "stars": 16865,
@@ -291,7 +291,7 @@
             "open_issues": 67,
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4771,
+            "stars": 4773,
             "topics": [
               "android",
               "awesome-list",
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:23.465Z",
+    "last_updated": "2026-08-29T09:19:47.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to Termux",
