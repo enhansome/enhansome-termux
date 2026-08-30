@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 848,
+            "stars": 849,
             "topics": [
               "android",
               "termux"
@@ -43,7 +43,7 @@
             "open_issues": 1,
             "owner": "moverest",
             "repo": "termux-smses",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "android",
               "fish-scripts",
@@ -71,11 +71,11 @@
             "id": 37346186,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T06:54:26Z",
-            "open_issues": 1125,
+            "last_commit": "2026-08-30T06:29:54Z",
+            "open_issues": 1128,
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 16865,
+            "stars": 16866,
             "topics": [
               "android",
               "hacktoberfest",
@@ -267,7 +267,7 @@
             "open_issues": 69,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16964,
+            "stars": 16969,
             "topics": [
               "awesome",
               "hacking"
@@ -320,7 +320,7 @@
             "open_issues": 0,
             "owner": "T4P4N",
             "repo": "Awesome-Termux",
-            "stars": 624,
+            "stars": 625,
             "topics": [
               "awesome-list",
               "awesome-termux",
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:19:47.180Z",
+    "last_updated": "2026-08-30T08:30:46.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to Termux",
@@ -348,7 +348,7 @@
       "open_issues": 2,
       "owner": "adrianogil",
       "repo": "awesome-termux",
-      "stars": 241,
+      "stars": 242,
       "topics": [
         "android",
         "awesome-list",
