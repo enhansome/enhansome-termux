@@ -16,7 +16,7 @@ A list of awesome things related to Termux
 
 ## Utils
 
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,027 | 🐛 1,098 | 🌐 Shell | 📅 2026-09-25
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,031 | 🐛 1,091 | 🌐 Shell | 📅 2026-09-26
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
 
@@ -32,7 +32,7 @@ A list of awesome things related to Termux
 
 ## Hacking
 
-* <https://github.com/cryzed/Termux-Bridge> ⭐ 49 | 🐛 0 | 🌐 Python | 📅 2016-02-03
+* <https://github.com/cryzed/Termux-Bridge> ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2016-02-03
   Simple "bridge" that allows applications not running under Termux to execute shell commands within the Termux environment and getting their output.
 * [Hacking Tools from Termux oficial page](https://wiki.termux.com/wiki/Hacking)
 
@@ -61,10 +61,10 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,132 | 🐛 74 | 📅 2024-06-02
-* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,833 | 🐛 67 | 📅 2023-12-14
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,145 | 🐛 74 | 📅 2024-06-02
+* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,834 | 🐛 67 | 📅 2023-12-14
 * [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 631 | 🐛 0 | 📅 2023-09-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
