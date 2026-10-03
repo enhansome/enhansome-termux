@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 860,
+            "stars": 861,
             "topics": [
               "android",
               "termux"
@@ -62,7 +62,7 @@
         {
           "node_type": "item",
           "title": "Open URL from Termux - https://github.com/termux/termux-packages/issues/166",
-          "description": null,
+          "description": "termux/termux-packages",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -71,11 +71,11 @@
             "id": 37346186,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T07:51:53Z",
-            "open_issues": 1109,
+            "last_commit": "2026-10-03T05:08:31Z",
+            "open_issues": 1110,
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 17068,
+            "stars": 17073,
             "topics": [
               "android",
               "hacktoberfest",
@@ -254,7 +254,7 @@
         {
           "node_type": "item",
           "title": "Awesome-list about Hacking",
-          "description": null,
+          "description": "carpedm20/awesome-hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -267,7 +267,7 @@
             "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17184,
+            "stars": 17186,
             "topics": [
               "awesome",
               "hacking"
@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "Awesome-list about Hacking using Termux",
-          "description": null,
+          "description": "may215/awesome-termux-hacking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -291,7 +291,7 @@
             "open_issues": 67,
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4846,
+            "stars": 4847,
             "topics": [
               "android",
               "awesome-list",
@@ -307,7 +307,7 @@
         {
           "node_type": "item",
           "title": "Another list of Termux resources",
-          "description": null,
+          "description": "T4P4N/Awesome-Termux",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:53:51.210Z",
+    "last_updated": "2026-10-03T05:10:39.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to Termux",
@@ -345,10 +345,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-08-04T04:07:18Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "adrianogil",
       "repo": "awesome-termux",
-      "stars": 258,
+      "stars": 259,
       "topics": [
         "android",
         "awesome-list",
