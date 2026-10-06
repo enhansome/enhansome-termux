@@ -61,7 +61,7 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,207 | 🐛 74 | 📅 2024-06-02
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,209 | 🐛 74 | 📅 2024-06-02
 * [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,851 | 🐛 67 | 📅 2023-12-14
 * [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 632 | 🐛 0 | 📅 2023-09-17
 

@@ -267,7 +267,7 @@
             "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17207,
+            "stars": 17209,
             "topics": [
               "awesome",
               "hacking"
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:19:30.264Z",
+    "last_updated": "2026-10-06T10:47:46.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to Termux",
