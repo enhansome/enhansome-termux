@@ -16,7 +16,7 @@ A list of awesome things related to Termux
 
 ## Utils
 
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,126 | 🐛 1,099 | 🌐 Shell | 📅 2026-10-11
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,131 | 🐛 1,080 | 🌐 Shell | 📅 2026-10-12
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
 
@@ -61,10 +61,10 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,239 | 🐛 75 | 📅 2024-06-02
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,245 | 🐛 75 | 📅 2024-06-02
 * [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,861 | 🐛 67 | 📅 2023-12-14
-* [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 637 | 🐛 1 | 📅 2023-09-17
+* [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 638 | 🐛 1 | 📅 2023-09-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
