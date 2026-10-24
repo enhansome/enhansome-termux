@@ -71,11 +71,11 @@
             "id": 37346186,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T07:00:37Z",
-            "open_issues": 1079,
+            "last_commit": "2026-10-24T07:19:21Z",
+            "open_issues": 1075,
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 17216,
+            "stars": 17224,
             "topics": [
               "android",
               "hacktoberfest",
@@ -109,7 +109,7 @@
             "open_issues": 27,
             "owner": "Hax4us",
             "repo": "Tmux-Bunch",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
@@ -267,7 +267,7 @@
             "open_issues": 74,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17323,
+            "stars": 17333,
             "topics": [
               "awesome",
               "hacking"
@@ -291,7 +291,7 @@
             "open_issues": 67,
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4891,
+            "stars": 4893,
             "topics": [
               "android",
               "awesome-list",
@@ -320,7 +320,7 @@
             "open_issues": 2,
             "owner": "T4P4N",
             "repo": "Awesome-Termux",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "awesome-list",
               "awesome-termux",
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:52:56.015Z",
+    "last_updated": "2026-10-24T07:33:37.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to Termux",

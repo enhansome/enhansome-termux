@@ -16,13 +16,13 @@ A list of awesome things related to Termux
 
 ## Utils
 
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,216 | 🐛 1,079 | 🌐 Shell | 📅 2026-10-23
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,224 | 🐛 1,075 | 🌐 Shell | 📅 2026-10-24
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
 
 ## Android Hacking
 
-* <https://github.com/Hax4us/Tmux-Bunch> ⭐ 223 | 🐛 27 | 🌐 Shell | 📅 2020-04-17 Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)
+* <https://github.com/Hax4us/Tmux-Bunch> ⭐ 224 | 🐛 27 | 🌐 Shell | 📅 2020-04-17 Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)
 * [apktool](https://github.com/Hax4us/apktool) ⭐ 92 | 🐛 1 | 🌐 Shell | 📅 2017-11-03 This apktool is specially compiled for termux..
 * <https://github.com/Harshiv-Patel/termux-jdkTools> ⭐ 60 | 🐛 1 | 🌐 Shell | 📅 2018-05-25 A bunch of jdk tools to use with Termux.
 * <https://github.com/4544fa8d/AndroTermux> ⭐ 54 | 🐛 1 | 🌐 Makefile | 📅 2016-10-09 Simple way to build Android apps in Termux.
@@ -61,10 +61,10 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,323 | 🐛 74 | 📅 2024-06-02
-* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,891 | 🐛 67 | 📅 2023-12-14
-* [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 642 | 🐛 2 | 📅 2023-09-17
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,333 | 🐛 74 | 📅 2024-06-02
+* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,893 | 🐛 67 | 📅 2023-12-14
+* [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 643 | 🐛 2 | 📅 2023-09-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
