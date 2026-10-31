@@ -16,7 +16,7 @@ A list of awesome things related to Termux
 
 ## Utils
 
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,267 | 🐛 1,078 | 🌐 Shell | 📅 2026-10-30
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,275 | 🐛 1,076 | 🌐 Shell | 📅 2026-10-31
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
 
@@ -61,10 +61,10 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,380 | 🐛 74 | 📅 2024-06-02
-* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,903 | 🐛 67 | 📅 2023-12-14
-* [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 645 | 🐛 2 | 📅 2023-09-17
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,384 | 🐛 75 | 📅 2024-06-02
+* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,906 | 🐛 67 | 📅 2023-12-14
+* [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 646 | 🐛 2 | 📅 2023-09-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
