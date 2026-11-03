@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "termux",
             "repo": "termux-float",
-            "stars": 875,
+            "stars": 876,
             "topics": [
               "android",
               "termux"
@@ -71,11 +71,11 @@
             "id": 37346186,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-02T08:40:28Z",
-            "open_issues": 1084,
+            "last_commit": "2026-11-03T08:31:40Z",
+            "open_issues": 1079,
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 17290,
+            "stars": 17297,
             "topics": [
               "android",
               "hacktoberfest",
@@ -109,7 +109,7 @@
             "open_issues": 27,
             "owner": "Hax4us",
             "repo": "Tmux-Bunch",
-            "stars": 224,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T14:33:22.755Z"
@@ -267,7 +267,7 @@
             "open_issues": 75,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17398,
+            "stars": 17401,
             "topics": [
               "awesome",
               "hacking"
@@ -291,7 +291,7 @@
             "open_issues": 67,
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4912,
+            "stars": 4914,
             "topics": [
               "android",
               "awesome-list",
@@ -320,7 +320,7 @@
             "open_issues": 2,
             "owner": "T4P4N",
             "repo": "Awesome-Termux",
-            "stars": 647,
+            "stars": 648,
             "topics": [
               "awesome-list",
               "awesome-termux",
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T09:52:40.373Z",
+    "last_updated": "2026-11-03T09:56:52.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to Termux",
