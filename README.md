@@ -4,7 +4,7 @@ A list of awesome things related to Termux
 
 ## Termux Apps
 
-* [Termux Float](https://play.google.com/store/apps/details?id=com.termux.window) [Termux Float - Github](https://github.com/termux/termux-float) ⭐ 879 | 🐛 25 | 🌐 Java | 📅 2025-12-12 A Termux add-on app to show the terminal in a floating terminal window.
+* [Termux Float](https://play.google.com/store/apps/details?id=com.termux.window) [Termux Float - Github](https://github.com/termux/termux-float) ⭐ 880 | 🐛 25 | 🌐 Java | 📅 2025-12-12 A Termux add-on app to show the terminal in a floating terminal window.
 * <https://github.com/moverest/termux-smses> ⭐ 34 | 🐛 1 | 🌐 Shell | 📅 2018-08-15 A simple fish script to send sms interactively with termux.
 * [Termux Widget](https://play.google.com/store/apps/details?id=com.termux.widget) The Termux:Widget add-on provides a widget with shortcuts to run scripts placed in the $HOME/.shortcuts/ folder, allowing quick access to frequently used commands without typing
 * [Termux Tasker](https://play.google.com/store/apps/details?id=com.termux.tasker) A Termux add-on app allowing Termux programs to be executed from Tasker.
@@ -16,7 +16,7 @@ A list of awesome things related to Termux
 
 ## Utils
 
-* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,366 | 🐛 1,098 | 🌐 Shell | 📅 2026-11-15
+* Open URL from Termux - <https://github.com/termux/termux-packages/issues/166> ⭐ 17,374 | 🐛 1,091 | 🌐 Shell | 📅 2026-11-16
 * How to browser internet inside Termux - <https://steemit.com/utopian-io/@rufans/how-to-browse-the-internet-from-command-line-with-termux-on-android>
 * Play mp3 files - <https://steemit.com/utopian-io/@rufans/how-to-play-mp3-files-from-command-line-with-termux>
 
@@ -25,8 +25,8 @@ A list of awesome things related to Termux
 * <https://github.com/Hax4us/Tmux-Bunch> ⭐ 225 | 🐛 27 | 🌐 Shell | 📅 2020-04-17 Tmux-Bunch is a first tool for complete apk modding in TERMUX (included :- decompiling , recompiling , signapk , zipalign)
 * [apktool](https://github.com/Hax4us/apktool) ⭐ 92 | 🐛 1 | 🌐 Shell | 📅 2017-11-03 This apktool is specially compiled for termux..
 * <https://github.com/Harshiv-Patel/termux-jdkTools> ⭐ 60 | 🐛 1 | 🌐 Shell | 📅 2018-05-25 A bunch of jdk tools to use with Termux.
-* <https://github.com/4544fa8d/AndroTermux> ⭐ 55 | 🐛 1 | 🌐 Makefile | 📅 2016-10-09 Simple way to build Android apps in Termux.
-* <https://github.com/TheDiamondYT1/termux-buildapk> ⭐ 42 | 🐛 3 | 🌐 Shell | 📅 2019-11-09 A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.
+* <https://github.com/4544fa8d/AndroTermux> ⭐ 56 | 🐛 1 | 🌐 Makefile | 📅 2016-10-09 Simple way to build Android apps in Termux.
+* <https://github.com/TheDiamondYT1/termux-buildapk> ⭐ 43 | 🐛 3 | 🌐 Shell | 📅 2019-11-09 A simple build script to quickly build Android apps on termux. Nothing major. Doesnt work for gradle.
 * <https://github.com/michalbednarski/TermuxAm> ⚠️ Archived Android Oreo-compatible am command reimplementation (am (Activity Manager) command in Android can be used to start Activity or send Broadcast from shell, however since Android Oreo that command only works from adb shell, not from apps. This is modified version of that command that is usable from app.)
 * <https://github.com/wisehackermonkey/termux> ⭐ 10 | 🐛 1 | 🌐 JavaScript | 📅 2018-12-27 Termux server for battery monitor on andriod
 
@@ -61,10 +61,10 @@ fi
 
 ## Related lists
 
-* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,508 | 🐛 73 | 📅 2024-06-02
-* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,944 | 🐛 67 | 📅 2023-12-14
+* [Awesome-list about Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 17,513 | 🐛 73 | 📅 2024-06-02
+* [Awesome-list about Hacking using Termux](https://github.com/may215/awesome-termux-hacking) ⭐ 4,946 | 🐛 67 | 📅 2023-12-14
 * [Another list of Termux resources](https://github.com/T4P4N/Awesome-Termux) ⭐ 652 | 🐛 1 | 📅 2023-09-17
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
