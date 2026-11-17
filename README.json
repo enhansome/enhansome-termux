@@ -71,11 +71,11 @@
             "id": 37346186,
             "language": "Shell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T09:57:40Z",
-            "open_issues": 1091,
+            "last_commit": "2026-11-17T10:54:37Z",
+            "open_issues": 1079,
             "owner": "termux",
             "repo": "termux-packages",
-            "stars": 17374,
+            "stars": 17388,
             "topics": [
               "android",
               "hacktoberfest",
@@ -267,7 +267,7 @@
             "open_issues": 73,
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 17513,
+            "stars": 17523,
             "topics": [
               "awesome",
               "hacking"
@@ -291,7 +291,7 @@
             "open_issues": 67,
             "owner": "may215",
             "repo": "awesome-termux-hacking",
-            "stars": 4946,
+            "stars": 4949,
             "topics": [
               "android",
               "awesome-list",
@@ -336,7 +336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:06:12.485Z",
+    "last_updated": "2026-11-17T11:02:00.212Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of awesome things related to Termux",
